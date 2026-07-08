@@ -23,5 +23,6 @@ This project presents the initial mechanical design of a simple quadruped robot 
 ## Project Files
 
 - Robot_Dog_Report.pdf
+- Design screenshots
 - tinkercad STL file 
 
